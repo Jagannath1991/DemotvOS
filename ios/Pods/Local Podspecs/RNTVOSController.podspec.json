@@ -1,0 +1,29 @@
+{
+  "name": "RNTVOSController",
+  "version": "0.2.4",
+  "summary": "TvOS remote controller module for react native.",
+  "homepage": "https://github.com/respectTheCode/react-native-tvos-controller",
+  "license": "MIT",
+  "authors": "Kevin Smith",
+  "source": {
+    "git": "https://github.com/respectTheCode/react-native-tvos-controller.git",
+    "tag": "v0.2.4"
+  },
+  "default_subspecs": "Default",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "Default",
+      "source_files": "ios/**/*.{h,m}"
+    }
+  ]
+}

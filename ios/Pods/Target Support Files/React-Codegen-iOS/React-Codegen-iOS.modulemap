@@ -1,0 +1,7 @@
+module React_Codegen {
+  umbrella header "React-Codegen-iOS-umbrella.h"
+  exclude header "React-Codegen-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

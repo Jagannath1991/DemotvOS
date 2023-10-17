@@ -1,0 +1,7 @@
+module folly {
+  umbrella header "RCT-Folly-iOS-umbrella.h"
+  exclude header "RCT-Folly-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

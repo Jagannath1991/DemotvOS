@@ -1,0 +1,7 @@
+module ReactCommon {
+  umbrella header "ReactCommon-iOS-umbrella.h"
+  exclude header "ReactCommon-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

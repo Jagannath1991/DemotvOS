@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tickernews.app-merged_res-31:/drawable_tv_banner.png.flat",
+        "source": "com.tickernews.app-main-32:/drawable/tv_banner.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_player_bottom_overlay.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_player_bottom_overlay.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_player_playbar.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_player_playbar.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_bkgimage.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_bkgimage.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable_tv_banner.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/drawable/tv_banner.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_player_pausebar.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_player_pausebar.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_player_top_overlay.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_player_top_overlay.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_overlayupdate.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_overlayupdate.png"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/raw_src_pages_splashscreen_ticker_splash_screen.mp4.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/raw/src_pages_splashscreen_ticker_splash_screen.mp4"
+    },
+    {
+        "merged": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-merged_res-31:/drawable-mdpi_src_assets_images_ticker_news_app.png.flat",
+        "source": "/Users/cepl/.gradle/daemon/8.0.1/com.tickernews.app-res-25:/drawable-mdpi/src_assets_images_ticker_news_app.png"
+    }
+]
